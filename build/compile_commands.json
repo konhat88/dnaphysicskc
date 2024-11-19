@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/dnaphysics.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/dnaphysics.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/dnaphysics.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/ActionInitialization.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/ActionInitialization.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/ActionInitialization.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/DetectorConstruction.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/DetectorConstruction.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/DetectorConstruction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/DetectorMessenger.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/DetectorMessenger.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/DetectorMessenger.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/PhysicsList.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/PhysicsList.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/PhysicsList.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/PrimaryGeneratorAction.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/PrimaryGeneratorAction.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/PrimaryGeneratorAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/RunAction.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/RunAction.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/RunAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/SteppingAction.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/SteppingAction.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/SteppingAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/seb/dnaphysics/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/seb/dnaphysics/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/dnaphysics.dir/src/TrackingAction.cc.o -c /home/konstantinos/kpap/seb/dnaphysics/src/TrackingAction.cc",
+  "file": "/home/konstantinos/kpap/seb/dnaphysics/src/TrackingAction.cc"
+}
+]

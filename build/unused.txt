@@ -1,0 +1,32 @@
+/*
+  // Register with the process manager for ions
+  G4ProcessManager* pManager = G4GenericIon::GenericIon()->GetProcessManager();
+  if (pManager) {
+    pManager->AddProcess(radioactiveDecay);
+    pManager->SetProcessOrdering(radioactiveDecay, idxPostStep);
+    pManager->SetProcessOrdering(radioactiveDecay, idxAtRest);
+  } else {
+    G4cerr << "Error: Process manager for G4GenericIon not found." << G4endl;
+  }
+
+  G4LossTableManager* man = G4LossTableManager::Instance();
+  G4VAtomDeexcitation* ad = man->AtomDeexcitation();
+  if(!ad) {
+    G4EmParameters::Instance()->SetAugerCascade(true);
+    ad = new G4UAtomicDeexcitation();
+    man->SetAtomDeexcitation(ad);
+    ad->InitialiseAtomicDeexcitation();
+  }
+*/
+
+/*
+  G4PhysicsListHelper::GetPhysicsListHelper()->
+    RegisterProcess(new G4Radioactivation(), G4GenericIon::GenericIon());
+*/
+
+
+  // Mandatory for G4NuclideTable
+  // Half-life threshold must be set small or many short-lived isomers 
+  // will not be assigned life times (default to 0) 
+  //G4NuclideTable::GetInstance()->SetThresholdOfHalfLife(0.1*picosecond);
+  //G4NuclideTable::GetInstance()->SetLevelTolerance(1.0*eV);
